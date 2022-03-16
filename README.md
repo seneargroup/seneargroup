@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajesh Indukuri</h1>
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://dev.to/https://dev.to/seneargroup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/seneargroup" height="30" width="40" /></a>
 <a href="https://twitter.com/info9rajeshcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="info9rajeshcs" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/rajesh.indukuri.99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rajesh.indukuri.99/" height="30" width="40" /></a>
