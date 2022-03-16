@@ -11,7 +11,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <hr>
-<hr>
 - 🔭 I’m currently working on **Full stack learning**
 
 - 🌱 I’m currently learning **Full stack Web Developer**
