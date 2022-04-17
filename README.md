@@ -8,7 +8,7 @@
 <a href="https://instagram.com/https://www.instagram.com/rajeshindukuri2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rajeshindukuri2/" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate Full-Stack Web developer from India</h3>
 
 <hr>
 - 🔭 I’m currently working on **Full stack learning**
