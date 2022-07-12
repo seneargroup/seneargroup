@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Full stack Projects**
 
-- 💬 Ask me about **HTML , CSS , JAVA SCRIPT**
+- 💬 Ask me about **HTML , CSS , JAVA SCRIPT , Nodejs , Mongodb**
 
 - 📫 How to reach me **info9rajeshcs@gmail.com**
 <hr>
